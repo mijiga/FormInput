@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FormInput</string>
+    <string name="name_prompt">Enter your name</string>
+    <string name="dob_prompt">Enter your date of birth</string>
+    <string name="email_prompt">Enter your date of email</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_prev">Previous</string>
+    <string name="command_next">Next</string>
+    <string name="command_exit">Exit</string>
+</resources>
